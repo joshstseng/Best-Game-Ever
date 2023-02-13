@@ -20,8 +20,7 @@ User selects a map and character to play. The player must then survive as long a
 ### CONTROLS:
 Arrow keys - Horizontal movement
 
-SPACE - jump
-- Ninja Frog can double Jump
+SPACE - jump (Ninja Frog can double Jump)
 
 SHIFT - Mask Guy Dash ability
 
