@@ -4,7 +4,9 @@
 
 <!---
 ![slimeGreen](https://user-images.githubusercontent.com/89825064/214717304-4e6b8325-e560-4537-a2ac-28e3b3ea1696.png)-->
+---
 
+NOTE: this repository only includes the code I used in the Unity project.
 
 ---
 
